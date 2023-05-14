@@ -1,0 +1,1 @@
+web: gunicorn app:telegram_api
